@@ -1,0 +1,26 @@
+.main-header{
+  text-align: center;
+  font-weight: 900;
+  font-size: 500%;
+}
+nav,a {
+  text-decoration: none;
+  text-align: center;
+  color:white;
+  padding: 15px 5px;
+}
+nav,a:hover {
+    background-color:#00ffff;
+}
+nav{
+  background-color: black;
+  opacity:0.8;
+}
+.home {
+  background-image: url(/home/ola/Documents/moringa-school-projects/resort-website/images/hotel.jpg);
+  background-repeat: no-repeat;
+  background-size:
+}
+table,th,td{
+  border: 2px solid black;
+}
