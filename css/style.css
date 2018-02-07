@@ -17,9 +17,8 @@ nav{
   opacity:0.8;
 }
 .home {
-  background-image: url(/home/ola/Documents/moringa-school-projects/resort-website/images/hotel.jpg);
-  background-repeat: no-repeat;
-  background-size:
+  background-color: yellow;
+
 }
 table,th,td{
   border: 2px solid black;
